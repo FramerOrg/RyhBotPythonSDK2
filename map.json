@@ -1,0 +1,24 @@
+{
+  "name": "RyhBotPythonSDK2",
+  "base": "https://raw.githubusercontent.com/FramerOrg/RyhBotPythonSDK2/refs/heads/main",
+  "modules": [
+    "YunhuMessageHistory",
+    "YunhuDevPack",
+    "YunhuServMenuClick",
+    "YunhuMessageSend",
+    "YunhuServCommand",
+    "YunhuServer",
+    "YunhuMessageEdit",
+    "YunhuMessageBoard",
+    "YunhuServButtonClick",
+    "YunhuServBotSetting",
+    "YunhuServBotFollow",
+    "YunhuServGroupLeave",
+    "YunhuServBotUnFollow",
+    "YunhuServGroupJoin",
+    "YunhuHTTP",
+    "YunhuMessageStream",
+    "YunhuMessageBatch",
+    "YunhuServNormal"
+  ]
+}
