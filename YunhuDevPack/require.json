@@ -1,0 +1,23 @@
+{
+  "dependencies": [
+    "YunhuHTTP",
+    "YunhuMessageBatch",
+    "YunhuMessageBoard",
+    "YunhuMessageEdit",
+    "YunhuMessageHistory",
+    "YunhuMessageSend",
+    "YunhuMessageStream",
+    "YunhuServBotFollow",
+    "YunhuServBotSetting",
+    "YunhuServBotUnFollow",
+    "YunhuServButtonClick",
+    "YunhuServCommand",
+    "YunhuServGroupJoin",
+    "YunhuServGroupLeave",
+    "YunhuServMenuClick",
+    "YunhuServNormal",
+    "YunhuServer"
+  ],
+  "option_dependencies": [],
+  "pip_dependencies": []
+}
